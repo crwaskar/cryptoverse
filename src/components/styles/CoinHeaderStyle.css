@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+    ul li{
+        padding: 7px;
+        margin-left: 10%;
+        color: red;
+    }
+    
+    }
