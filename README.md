@@ -14,6 +14,9 @@ Link : https://cryptonexa.netlify.app
 Features : 
 
 Navigate a user-friendly React-based crypto website for real-time market prices, historical graphs, and comprehensive coin details.
+
 Instantly search and access information on any cryptocurrency, including market capitalization.
+
 Customize your experience with responsive design while staying informed about last month's and last year's performance.
+
 Gain insights into each coin's history and technology, fostering an informed and engaging exploration of the crypto landscape.
